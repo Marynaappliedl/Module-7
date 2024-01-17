@@ -46,7 +46,7 @@ This is a simple work day scheduler web application that helps users organize an
 
 ## Author
 
-[Your Name]
+Maryna
 
 ## License
 
